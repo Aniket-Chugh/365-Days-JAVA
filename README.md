@@ -4,9 +4,7 @@
 
 # My 365-Days-JAVA Repository
 
-[![GitHub stars](https://img.shields.io/github/stars/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/watchers)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Chugh&theme=tokyonight)
 
     
 
