@@ -2,12 +2,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-chugh&show_icons=true&locale=en" alt="aniket-chugh" /></p>
 
-## Repository Stats
+# My 365-Days-JAVA Repository
 
-- **Stars:** 0
-- **Forks:** 0
-- **Watchers:** 0
-
+[![GitHub stars](https://img.shields.io/github/stars/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Aniket-Chugh/365-Days-JAVA?style=flat-square)](https://github.com/Aniket-Chugh/365-Days-JAVA/watchers)
 
     
 
