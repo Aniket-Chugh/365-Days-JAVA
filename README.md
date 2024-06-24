@@ -1,6 +1,3 @@
-# Aniket Chugh's 365-Days-JAVA
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-chugh&show_icons=true&locale=en" alt="aniket-chugh" /></p>
 
 # My 365-Days-JAVA Repository
 
