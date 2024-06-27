@@ -1,0 +1,10 @@
+# Day 5 , we have done :- 
+
+Today we learnt about arrays , taking input in array and giving out put the elements 
+and learn the ways it can be written ...
+
+<------------ questions regarding this -------------->
+ques1. --> Find the maximum & minimum number in an array of integers. <br>
+ques2. --> Take an array of numbers as input and check if it is an array sorted in ascending order.<br>
+Eg : { 1, 2, 4, 7 } is sorted in ascending order.
+       {3, 4, 6, 2} is not sorted in ascending order.
