@@ -1,0 +1,8 @@
+day 7: 
+we have learnt about 2d arrays and taking input in them and giving output , how many ways we can use to make them and more 
+
+<----- questions regarding it ----------------->
+
+(as user dont get bored so will take input: )
+ques1. --> 1. Sum of All Elements in a 2D Array
+ques2.--> Print Diagonal Elements of a 2D Array
