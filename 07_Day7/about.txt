@@ -1,0 +1,69 @@
+<------ Have learnt about StringBuilder ----------->
+
+Day 7 :- We have learnt about String Builder...
+
+
+
+Append: Adds text to the end.
+
+ .
+ .
+sb.append("text");
+
+
+Insert: Inserts text at a specified position.
+
+ .
+ .
+sb.insert(int offset, String str);
+Replace: Replaces a part of the string.
+
+ .
+ .
+sb.replace(int start, int end, String str);
+Delete: Removes a part of the string.
+
+ .
+ .
+sb.delete(int start, int end);
+Reverse: Reverses the sequence of characters.
+
+ .
+ .
+sb.reverse();
+Capacity: Returns the current capacity.
+
+ .
+ .
+int capacity = sb.capacity();
+Ensure Capacity: Ensures that the capacity is at least equal to the specified minimum.
+
+ .
+ .
+sb.ensureCapacity(int minimumCapacity);
+Length: Returns the length of the character sequence.
+
+ .
+ .
+int length = sb.length();
+Set Length: Sets the length of the character sequence.
+
+ 
+ .
+sb.setLength(int newLength);
+Char At: Returns the character at a specific index.
+
+ .
+ .
+char ch = sb.charAt(int index);
+Set Char At: Sets the character at a specific index.
+
+ .
+ .
+sb.setCharAt(int index, char ch);
+Substring: Returns a new String that is a substring of this sequence.
+
+ .
+ .
+String substr = sb.substring(int start);
+String substr = sb.substring(int start, int end);
