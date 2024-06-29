@@ -14,7 +14,7 @@
 https://github.com/Aniket-Chugh/taking-input-in-java-/assets/149312276/f2e426d4-1459-4d27-bff5-cb11db73216a
 
 # from where i am learning (will update it every week !) : 
-## Resources :
+## Resources :<br>
 
 https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop <br>
 
