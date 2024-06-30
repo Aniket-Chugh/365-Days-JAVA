@@ -1,0 +1,52 @@
+# Day 8 : 
+## we have learnt about bitwise operator and shift operators abd revised all the operator.  How to use them and there real use.
+
+### <---------------------Bitwise Operators ------------------------->
+
+
+Bitwise operators are used to perform bit-level operations on integers. They operate on individual bits of the integer operands.
+
+### AND (&)
+
+Performs a bitwise AND operation.
+Each bit in the result is 1 if the corresponding bits in both operands are 1.
+Example: 5 & 3 (binary 0101 & 0011 results in 0001, which is 1).
+#### OR (|)
+
+Performs a bitwise OR operation.
+Each bit in the result is 1 if at least one of the corresponding bits in the operands is 1.
+Example: 5 | 3 (binary 0101 | 0011 results in 0111, which is 7).
+### XOR (^)
+
+Performs a bitwise XOR (exclusive OR) operation.
+Each bit in the result is 1 if the corresponding bits in the operands are different.
+Example: 5 ^ 3 (binary 0101 ^ 0011 results in 0110, which is 6).
+### NOT (~)
+
+Performs a bitwise NOT operation.
+Each bit in the result is the inverse of the corresponding bit in the operand.
+Example: ~5 (binary ~0101 results in 1010, which is -6 in 2's complement form).
+Shift Operators
+Shift operators are used to shift the bits of a number left or right, which effectively multiplies or divides the number by powers of two.
+
+### Left Shift (<<)
+
+Shifts the bits of the number to the left by the specified number of positions.
+Each left shift by one position is equivalent to multiplying the number by 2.
+Example: 5 << 1 (binary 0101 << 1 results in 1010, which is 10).
+
+
+
+### Right Shift (>>)
+
+Shifts the bits of the number to the right by the specified number of positions.
+Each right shift by one position is equivalent to dividing the number by 2.
+Example: 5 >> 1 (binary 0101 >> 1 results in 0010, which is 2).
+
+
+## <----------- questions ----------------------><br>
+
+
+### ques1 : Write a Java program to read an integer from the user and check if it is even or odd using the right shift operator. Print the result.<br>
+### ques2 : Write a Java program to read an integer from the user and multiply it by 4 using the left shift operator.
+
