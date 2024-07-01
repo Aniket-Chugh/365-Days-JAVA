@@ -9,7 +9,7 @@
 ![Screenshot (63)](https://github.com/Aniket-Chugh/365-Days-JAVA/assets/149312276/c6af2978-c3ad-4c23-ae5c-6edc207e79af)
 
 ### Taking input in java :
-##### here' the demo(my video: )  :
+##### here' the demo(my video: )  :<br>
 
 https://github.com/Aniket-Chugh/taking-input-in-java-/assets/149312276/f2e426d4-1459-4d27-bff5-cb11db73216a
 
